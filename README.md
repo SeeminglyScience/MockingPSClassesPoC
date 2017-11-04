@@ -1,7 +1,7 @@
 # PSClass Mock Proof of Concept
 
-This module is a proof of concept for a potential wy to add PowerShell class mocking functionality for
-test scripts.  The demo is fully functional, though I have not done any extensive tets, only enough
+This module is a proof of concept for a potential way to add PowerShell class mocking functionality for
+test scripts.  The demo is fully functional, though I have not done any extensive tests, only enough
 to know it works.  This module is intended to be a demonstration only.
 
 If anyone wants to build this into a proper implementation feel free to reach out if you run into issues.
